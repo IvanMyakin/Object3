@@ -1,0 +1,1 @@
+appveyor.com/project/IvanMyakin/object/branch/main)
