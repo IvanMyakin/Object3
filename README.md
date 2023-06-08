@@ -1,1 +1,1 @@
-appveyor.com/project/IvanMyakin/object/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/xtcp696pjkqy0upk/branch/main?svg=true)](https://ci.appveyor.com/project/IvanMyakin/object3/branch/main)
